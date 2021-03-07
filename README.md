@@ -2,7 +2,7 @@
 <div style="text-align: right"> 
 <a href="https://twitter.com/lunightXOXO" target="_blank"><img src="https://img.shields.io/badge/lunight-%231DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>   
 <a href="https://www.linkedin.com/in/%EA%B2%BD%EC%8B%9D-%EA%B9%80-069760b4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> 
-<a href="www.gmail.com" target="_blank"><img src="https://img.shields.io/badge/lunightdev%40gmail.com-%23EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> </div>
+<a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/lunightdev%40gmail.com-%23EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> </div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLunightLab&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/lunightlab) 
 [![](https://img.shields.io/github/followers/lunightlab?label=Flow&style=social)](https://github.com/lunightlab)  
