@@ -47,12 +47,14 @@ You are always happy and your interest and feedback are always welcome. :)
 <a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/badge/GitLab-%23FCA121?style=flat-square&logo=GitLab&logoColor=white"/></a>
-<a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/badge/SVN-%23809CC9?style=flat-square&logo=Subversion&logoColor=white"/></a>  
+<a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/badge/SVN-%23809CC9?style=flat-square&logo=Subversion&logoColor=white"/></a>
+<a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/badge/Jenkins-blue?style=flat-square&logo=jenkins&logoColor=white"/></a>
+<a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/badge/fastlane-inactive?style=flat-square&logo=fastlane&logoColor=white"/></a>
 
 **Study🧑🏻‍💻**  
 <a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/badge/ReactiveX-%23B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/></a>
 <a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/badge/Realm-%2339477F?style=flat-square&logo=Realm&logoColor=white"/></a>
-<a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/badge/Firebase-%23FFCA28?style=flat-square&logo=Firebase&logoColor=black"/></a>  
+<a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/badge/Firebase-%23FFCA28?style=flat-square&logo=Firebase&logoColor=black"/></a>
 
 **Now🧑🏻‍💻**  
 <a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/badge/swift-orange?style=flat-square&logo=Swift&logoColor=white"/></a>   
