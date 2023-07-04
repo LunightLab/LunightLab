@@ -33,8 +33,7 @@ You are always happy and your interest and feedback are always welcome. :)
 <a href="https://developer.apple.com/kr/" target="_blank"><img src="https://img.shields.io/badge/iOS-inactive?style=flat-square&logo=Apple&logoColor=white"/></a>
 <a href="https://developer.apple.com/kr/" target="_blank"><img src="https://img.shields.io/badge/MacOS-lightgrey?style=flat-square&logo=Apple&logoColor=white"/></a>
 <a href="https://developer.apple.com/kr/" target="_blank"><img src="https://img.shields.io/badge/Objectiv--C-lightgrey?style=flat-square&logo=Apple&logoColor=white"/></a>
-<a href="https://forums.swift.org/" target="_blank"><img src="https://img.shields.io/badge/swift-orange?style=flat-square&logo=Swift&logoColor=white"/></a>  
-<a href="https://flutter.dev/?utm_source=flutter_github_io&utm_medium=Redirect&utm_content=meta_refresh" target="_blank"><img src="https://img.shields.io/badge/flutter-blue?style=flat-square&logo=flutter&logoColor=white"/></a>
+<a href="https://forums.swift.org/" target="_blank"><img src="https://img.shields.io/badge/swift-orange?style=flat-square&logo=Swift&logoColor=white"/></a> <a href="https://flutter.dev/?utm_source=flutter_github_io&utm_medium=Redirect&utm_content=meta_refresh" target="_blank"><img src="https://img.shields.io/badge/flutter-blue?style=flat-square&logo=flutter&logoColor=white"/></a>
 
 <a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/badge/aws-%23232F3E?style=flat-square&logo=Amazon&logoColor=white"/></a>
 <a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
