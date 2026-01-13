@@ -1,14 +1,12 @@
 <div align=right>
   <a href="https://github.com/LunightLab">
 		<img alt="author" src= "https://img.shields.io/badge/author-lunight-blue?style=glat-square" target="_blank"></a>
-	</a>
-  <a href="https://github.com/lunightlab" target="_blank"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLunightLab&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-  </a>  
+	</a>  
   <a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/github/followers/lunightlab?label=Flow&style=social"/>
   </a>  
 </div>
 
-## **lunight** 💬 
+## **Hardy** 💬 
 <a href="https://twitter.com/lunightXOXO" target="_blank"><img src="https://img.shields.io/badge/lunight-%231DA1F2?style=flat-square&logo=twitter&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/%EA%B2%BD%EC%8B%9D-%EA%B9%80-069760b4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
@@ -33,32 +31,48 @@ You are always happy and your interest and feedback are always welcome. :)
 <a href="https://developer.apple.com/kr/" target="_blank"><img src="https://img.shields.io/badge/iOS-inactive?style=flat-square&logo=Apple&logoColor=white"/></a>
 <a href="https://developer.apple.com/kr/" target="_blank"><img src="https://img.shields.io/badge/MacOS-lightgrey?style=flat-square&logo=Apple&logoColor=white"/></a>
 <a href="https://developer.apple.com/kr/" target="_blank"><img src="https://img.shields.io/badge/Objectiv--C-lightgrey?style=flat-square&logo=Apple&logoColor=white"/></a>
-<a href="https://forums.swift.org/" target="_blank"><img src="https://img.shields.io/badge/swift-orange?style=flat-square&logo=Swift&logoColor=white"/></a> <a href="https://flutter.dev/?utm_source=flutter_github_io&utm_medium=Redirect&utm_content=meta_refresh" target="_blank"><img src="https://img.shields.io/badge/flutter-blue?style=flat-square&logo=flutter&logoColor=white"/></a>
+<a href="https://forums.swift.org/" target="_blank"><img src="https://img.shields.io/badge/swift-orange?style=flat-square&logo=Swift&logoColor=white"/></a>
+<a href="https://flutter.dev/?utm_source=flutter_github_io&utm_medium=Redirect&utm_content=meta_refresh" target="_blank"><img src="https://img.shields.io/badge/flutter-blue?style=flat-square&logo=flutter&logoColor=white"/></a>
+<a href="https://github.com/lunightlab" target="_blank">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/>
+</a>
+<a href="https://github.com/lunightlab" target="_blank">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</a>
 
-<a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/badge/aws-%23232F3E?style=flat-square&logo=Amazon&logoColor=white"/></a>
-<a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
-<a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>
-<a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=linux&logoColor=black"/></a>
-<a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/badge/CentOS-%23262577?style=flat-square&logo=CentOS&logoColor=white"/></a>
-<a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/badge/Fedora-%23294172?style=flat-square&logo=Fedora&logoColor=white"/></a>  
-
-  **Tools🧑🏻‍💻**  
+  **Tools & OS🧑🏻‍💻**  
 <a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/badge/GitLab-%23FCA121?style=flat-square&logo=GitLab&logoColor=white"/></a>
 <a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/badge/SVN-%23809CC9?style=flat-square&logo=Subversion&logoColor=white"/></a>
 <a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/badge/Jenkins-blue?style=flat-square&logo=jenkins&logoColor=white"/></a>
 <a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/badge/fastlane-inactive?style=flat-square&logo=fastlane&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS-Cloud?style=flat-square&logo=amazonaws&logoColor=white&color=232F3E"/>
+<a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+<a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>
+<a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=linux&logoColor=black"/></a>
+<a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/badge/CentOS-%23262577?style=flat-square&logo=CentOS&logoColor=white"/></a>
+<a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/badge/Fedora-%23294172?style=flat-square&logo=Fedora&logoColor=white"/></a>  
 
-
-**Study🧑🏻‍💻**  
+<a href="https://github.com/lunightlab" target="_blank">
+  <img src="https://img.shields.io/badge/Appium-EE376D?style=flat-square&logo=appium&logoColor=white"/>
+</a>
+<a href="https://github.com/lunightlab" target="_blank">
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
+</a>
+<a href="https://github.com/lunightlab" target="_blank">
+  <img src="https://img.shields.io/badge/Gitea-609926?style=flat-square&logo=gitea&logoColor=white"/>
+</a>
+<a href="https://github.com/lunightlab" target="_blank">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+</a>
 <a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/badge/ReactiveX-%23B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/></a>
 <a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/badge/Realm-%2339477F?style=flat-square&logo=Realm&logoColor=white"/></a>
 <a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/badge/Firebase-%23FFCA28?style=flat-square&logo=Firebase&logoColor=black"/></a>
 
 **Now🧑🏻‍💻**  
-<a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/badge/swift-orange?style=flat-square&logo=Swift&logoColor=white"/></a>   
-
-## My status 🥱
-[![lunight's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunightlab&theme=dark&hide_border=true&icon_color=FFFFFF&show_icons=true)](https://github.com/lunight/) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunightlab&layout=compact&langs_count=8&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+<a href="https://github.com/lunightlab" target="_blank"><img src="https://img.shields.io/badge/swift-orange?style=flat-square&logo=Swift&logoColor=white"/></a> <a href="https://github.com/lunightlab" target="_blank">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</a>
+<a href="https://flutter.dev/?utm_source=flutter_github_io&utm_medium=Redirect&utm_content=meta_refresh" target="_blank"><img src="https://img.shields.io/badge/flutter-blue?style=flat-square&logo=flutter&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Swift-UI-F05138?style=flat-square&logo=swift&logoColor=white"/>
